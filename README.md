@@ -1,5 +1,6 @@
 Olá, Bem vindo ao meu projeto de portfólio.
 
+![image](https://github.com/user-attachments/assets/d90a7637-2f80-4ca2-85a5-f71164b3bb95)
 Link do projeto: https://portfolio-ex-seven.vercel.app/
 
 ## Ferramentas utilizadas:
